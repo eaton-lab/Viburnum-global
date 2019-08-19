@@ -190,7 +190,7 @@ atrocyaneum_bufford_34956,GATGGACTAA,Boufford_34956,atrocyaneum,China,Xizang,,,9
 rigidum_stearn_1776,GCATGGAGGT,Steam_1776,rigidum,USA,California,,,9,57,,,0,,,0
 hebanthum_klockenberg_32,GTATATCCAC,Klockenberg_32,hebanthum,India,,,,9,58,,,0,,,0
 discolor_veliz_35_99,CGTACCTTGC,Veliz_35_99,discolor,Guatemala,Totonicapan,14.91,-91.32,9,59,,,1,,,0
-tetradoxa_MJD,TATCGCGGAG,MJD?,Tetradoxa,,,,,9,60,XXX,,0,,,1
+tetradoxa_MJD,TATCGCGGAG,MJDX,Tetradoxa,,,,,9,60,XXX,,0,,,1
 glaberrimum_PWS_2326,CATGCATACT,PWS_2326,glaberrimum,Philippines,,8.18,124.77,9,61,,,0,,,0
 lepidotulum_PWS_2098,TCACTGAGAA,PWS_2098,punctatum,Vietnam,Kon_Tum,15.18179,107.81426,9,62,,,0,previously labeled lepidotulum,,0
 bonninsiense_ELS_964,ATCCATAAGA,ELS_964,bonninense,Japan,,,,9,63,,,0,,,0
@@ -858,7 +858,7 @@ KFC-1950_betulifolium,CTCATTAACC,KFC_1950,betulifolium,,,,,2,52,XXX,,0,,,1
 PWS2237_foetidum_caenthoides,TTGATGGTGC,PWS_2237,foetidum-ceanothoides,China,Wenshan,23.4685,103.9398,2,53,,,0,,,0
 KFC-1944_propinquum_TW,CAACATGAAG,KFC_1944,propinquum,Taiwan,,,,2,54,,,0,,,0
 WC267_cotinifolium,ATGAAGGCAG,WC_267,cotinifolium,,,,,2,55,XXX,,0,,,1
-ELS242_Sambucus,GATGGACTAA,ELS_242,Sambucus_?,,,,,2,56,XXX,,0,,,1
+ELS242_Sambucus,GATGGACTAA,ELS_242,Sambucus,,,,,2,56,XXX,,0,,,1
 PWS1656_c.f._jamensonii,GCATGGAGGT,PWS_1656,jamesonii,Ecuador,Carchi,0.68582,-77.96373,2,57,,,1,,,0
 PWS2201_c.f._fordiae,GTATATCCAC,PWS_2201,fordiae,China,Lechang,25.29163,113.45981,2,58,XXX,,0,,,1
 PWS2202_c.f._formosanum,CGTACCTTGC,PWS_2202,formosanum,China,Lechang,24.97621,112.66657,2,59,XXX,,0,,,1
