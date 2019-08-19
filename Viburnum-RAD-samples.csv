@@ -190,7 +190,7 @@ atrocyaneum_bufford_34956,GATGGACTAA,Boufford_34956,atrocyaneum,China,Xizang,,,9
 rigidum_stearn_1776,GCATGGAGGT,Steam_1776,rigidum,USA,California,,,9,57,,0,,,0
 hebanthum_klockenberg_32,GTATATCCAC,Klockenberg_32,hebanthum,India,,,,9,58,,0,,,0
 discolor_veliz_35_99,CGTACCTTGC,Veliz_35_99,discolor,Guatemala,Totonicapan,14.91,-91.32,9,59,,1,,,0
-tetradoxa_MJD,TATCGCGGAG,MJD?,Tetradoxa,,,,,9,60,,0,,,0
+tetradoxa_MJD,TATCGCGGAG,MJD?,Tetradoxa,,,,,9,60,,0,,,1
 glaberrimum_PWS_2326,CATGCATACT,PWS_2326,glaberrimum,Philippines,,8.18,124.77,9,61,,0,,,0
 lepidotulum_PWS_2098,TCACTGAGAA,PWS_2098,punctatum,Vietnam,Kon_Tum,15.18179,107.81426,9,62,,0,previously labeled lepidotulum,,0
 bonninsiense_ELS_964,ATCCATAAGA,ELS_964,bonninense,Japan,,,,9,63,,0,,,0
@@ -218,7 +218,7 @@ s_canadensis,TGAGCCAGCT,Sambucus,canadensis,,,,,9,84,,0,,,0
 s_carulea,TCTAGAGAAG,Sambucus,carulea,,,,,9,85,,0,,,0
 s_ebulus,GCCGAGGTGA,Sambucus,ebulus,,,,,9,86,,0,,,0
 s_gaudichaudiana,GGTGAGTCGG,Sambucus,gaudichaudiana,,,,,9,87,,0,,,0
-s_javanica,CTTATTCTAC,Sambucus,javanica,,,,,9,88,,0,,,0
+s_javanica,CTTATTCTAC,Sambucus,javanica,,,,,9,88,,0,,,1
 s_melanocarpa,CAAGAGACGT,Sambucus,melanocarpa,,,,,9,89,,0,,,0
 s_nigra,GCACGTCTCC,Sambucus,nigra,,,,,9,90,,0,,,1
 s_pubens,GTGCTCTCTA,Sambucus,pubens,,,,,9,91,,0,,,0
